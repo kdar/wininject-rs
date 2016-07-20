@@ -1,0 +1,13 @@
+[package]
+name = "hook"
+version = "0.1.0"
+authors = ["Kevin Darlington <kevin@outroot.com>"]
+
+[dependencies]
+winapi = "0.2"
+kernel32-sys = "0.2"
+# sharedlib = "3.1"
+# libc = "0.2"
+win32-error = "0.9.0"
+pe = "0.1.1"
+scopeguard = "0.2"
